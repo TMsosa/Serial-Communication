@@ -1,3 +1,8 @@
+/*
+ Sending button data using serial from arduino to an external application  
+ 15 May, 2019 
+ by Tamanda Msosa 
+*/
 
 const int buttonPin = 2; // button pin 
 const int buttonPin2 = 4; //second button pin
